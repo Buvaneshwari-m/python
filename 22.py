@@ -1,5 +1,5 @@
-h=int(input())
-arr=[]
-for i in range(h):
-   arr=map(int,input().split())
-   print(max(arr))
+buv=int(input())
+ifd=[]
+for j in range(buv):
+   ifd=map(int,input().split())
+   print(max(ifd))
